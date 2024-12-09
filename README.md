@@ -1,1 +1,2 @@
-# music_store_data_project_using_sql
+# Music store data analysis using SQL.
+## objective 
